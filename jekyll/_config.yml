@@ -1,0 +1,20 @@
+# Site settings
+title: Toy Engine
+company: twoeightyfour
+company_twitter: twoeightyfour
+email: toyengineapp@gmail.com
+
+deep: Deepkanwal Plaha
+deep_twitter: deepkanwalplaha
+deep_website: http://www.deepkanwal.com
+rick: Rick Buczynski
+rick_twitter: rickbuxzynski
+
+description: > # this means to ignore newlines until "baseurl:"
+  Toy Engine is an app that allows you to create 
+  two-dimensional side scrolling games on an iPad. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
