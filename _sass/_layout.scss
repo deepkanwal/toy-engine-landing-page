@@ -182,7 +182,6 @@
     width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
-
 @include media-query($on-laptop) {
     .content-col-1,
     .content-col-2,
@@ -207,7 +206,11 @@
     }
 }
 
-
+.content-col {
+    .caption {
+        padding-top: 20px;
+    }
+}
 
 /**
  * Page content
