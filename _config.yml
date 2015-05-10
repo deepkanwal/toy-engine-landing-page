@@ -13,7 +13,7 @@ rick_twitter: BuczynskiRick
 description: > # this means to ignore newlines until "baseurl:"
   Toy Engine is an app that allows you to create 
   two-dimensional side scrolling games on an iPad. 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.toyengineapp.com" # the base hostname & protocol for your site
 
 # Build settings
