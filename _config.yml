@@ -3,7 +3,7 @@ title: Toy Engine
 company: twoeightyfour
 company_twitter: twoeightyfour
 email: toyengineapp@gmail.com
-
+youtube: "https://www.youtube.com/channel/UComfG9Egf1KCtGcotBSgG0Q"
 deep: Deepkanwal Plaha
 deep_twitter: deepkanwalplaha
 deep_website: http://www.deepkanwal.com
@@ -11,8 +11,8 @@ rick: Rick Buczynski
 rick_twitter: BuczynskiRick
 
 description: > # this means to ignore newlines until "baseurl:"
-  Toy Engine is an app that allows you to create 
-  two-dimensional side scrolling games on an iPad. 
+  Toy Engine is an app that allows you to create
+  two-dimensional side scrolling games on an iPad.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.toyengineapp.com" # the base hostname & protocol for your site
 
